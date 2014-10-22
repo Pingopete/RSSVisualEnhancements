@@ -9,6 +9,7 @@ The mod is still heavily WIP, mainly because of the overhaul series being an exp
 The primary aim of this project is to match the visual (and audio to come) aspects of KSP RSS as best I can to its real life couterparts, through the power of the overhaul series.
 
 ChangeLog:
+
 V0.1 
 - Initial Release, just Earth, many bugs, only some planet exteriors
 - PQS cloud shadows removed until EVE Overhaul 9.3 (Terrain wrapped cloud shadows and realistic casting)
