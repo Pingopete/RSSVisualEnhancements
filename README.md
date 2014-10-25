@@ -8,6 +8,8 @@ The mod is still heavily WIP, mainly because of the overhaul series being an exp
 
 The primary aim of this project is to match the visual (and audio to come) aspects of KSP RSS as best I can to its real life couterparts, through the power of the overhaul series.
 
+IMPORTANT NOTES ON MASTER ZIP: As of yet this has only been tested with RSS 7.3 and KSP 0.24.2 x64. How well this will function on say KSP 0.25 or RSS 8.2.1 is anyones guess.. sorry.
+
 ChangeLog:
 
 V0.1 
