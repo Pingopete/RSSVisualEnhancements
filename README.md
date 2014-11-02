@@ -67,3 +67,5 @@ Credit also to the various modders of EnvironmentalVisualEnhancements prior to R
 
 For all other information visit the KSP Forum thread:
 http://forum.kerbalspaceprogram.com/threads/83215-KSP-0-24-2-WIP-RSS-Visual-Enhancements-DEV-RELEASE-0-2-2-RSS-7-3
+
+Licence: CC-BY-NC-SA
